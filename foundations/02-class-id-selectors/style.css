@@ -1,0 +1,19 @@
+.bg-fo {
+    font-family:Verdana, sans-serif;
+    background-color: #ffb6c1; 
+}
+
+#id1 {
+    color: hsl(240, 100%, 50%);
+    font-size:36px;
+}
+
+.fo-si {
+    font-size:24px;
+}
+
+#id2 {
+    background-color: rgb(144, 238, 144);
+    font-size:24px;
+    font-weight:bold;
+}

@@ -1,0 +1,19 @@
+.container p {
+    background-color: #ffff00;
+    color:red;
+    font-size:20px;
+    text-align:center;
+}
+
+
+/* 
+the code below will also work 
+
+.container .text {
+    background-color: yellow;
+    color:red;
+    font-size:20px;
+    text-align:center;
+}
+
+*/
